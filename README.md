@@ -9,7 +9,7 @@ It contains judgments from 1950 to Present, along with raw metadata (in json for
 - AWS sponsors the storage and data transfer costs of the data.
 - Join [discord server](https://discord.gg/mQhghxCRJU) if you want to collaborate on this repo or have any questions.
 - **Be responsible, considerate, and think about the maintainers of the ecourts website. Avoid scraping with high concurrency.**
-- Data downloaded using previous version of this repo from an API is availavble in [Kaggle](https://www.kaggle.com/datasets/vangap/indian-supreme-court-judgments/data). Code for that is available in the branch [old](https://github.com/vanga/indian-supreme-court-judgments/tree/old)
+- Data downloaded using previous version of this repo from an API is availavble in [Kaggle](https://www.kaggle.com/datasets/vangap/indian-supreme-court-judgments/data). Code for that is available in the branch [old](https://github.com/ashutoshblackcoat/indian-supreme-court-judgments/tree/old)
 
 ## Data
 

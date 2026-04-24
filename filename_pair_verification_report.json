@@ -1,0 +1,310 @@
+{
+  "summary": {
+    "total_years_checked": 26,
+    "complete_years": 24,
+    "incomplete_years": 2,
+    "incomplete_year_list": [
+      2009,
+      2023
+    ],
+    "total_json_files": 21889,
+    "total_pdf_files": 21886,
+    "total_paired_files": 21886,
+    "total_orphaned_jsons": 3,
+    "total_orphaned_pdfs": 0,
+    "all_pairs_complete": false
+  },
+  "years": [
+    {
+      "year": 2000,
+      "json_count": 610,
+      "pdf_count": 610,
+      "paired_count": 610,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2001,
+      "json_count": 613,
+      "pdf_count": 613,
+      "paired_count": 613,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2002,
+      "json_count": 580,
+      "pdf_count": 580,
+      "paired_count": 580,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2003,
+      "json_count": 752,
+      "pdf_count": 752,
+      "paired_count": 752,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2004,
+      "json_count": 729,
+      "pdf_count": 729,
+      "paired_count": 729,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2005,
+      "json_count": 631,
+      "pdf_count": 631,
+      "paired_count": 631,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2006,
+      "json_count": 1029,
+      "pdf_count": 1029,
+      "paired_count": 1029,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2007,
+      "json_count": 1325,
+      "pdf_count": 1325,
+      "paired_count": 1325,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2008,
+      "json_count": 1508,
+      "pdf_count": 1508,
+      "paired_count": 1508,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2009,
+      "json_count": 1327,
+      "pdf_count": 1326,
+      "paired_count": 1326,
+      "is_complete": false,
+      "orphaned_jsons": [
+        "2009_9_810_820.json"
+      ],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 1,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2010,
+      "json_count": 907,
+      "pdf_count": 907,
+      "paired_count": 907,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2011,
+      "json_count": 848,
+      "pdf_count": 848,
+      "paired_count": 848,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2012,
+      "json_count": 623,
+      "pdf_count": 623,
+      "paired_count": 623,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2013,
+      "json_count": 854,
+      "pdf_count": 854,
+      "paired_count": 854,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2014,
+      "json_count": 795,
+      "pdf_count": 795,
+      "paired_count": 795,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2015,
+      "json_count": 761,
+      "pdf_count": 761,
+      "paired_count": 761,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2016,
+      "json_count": 589,
+      "pdf_count": 589,
+      "paired_count": 589,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2017,
+      "json_count": 732,
+      "pdf_count": 732,
+      "paired_count": 732,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2018,
+      "json_count": 795,
+      "pdf_count": 795,
+      "paired_count": 795,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2019,
+      "json_count": 1050,
+      "pdf_count": 1050,
+      "paired_count": 1050,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2020,
+      "json_count": 571,
+      "pdf_count": 571,
+      "paired_count": 571,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2021,
+      "json_count": 708,
+      "pdf_count": 708,
+      "paired_count": 708,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2022,
+      "json_count": 1017,
+      "pdf_count": 1017,
+      "paired_count": 1017,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2023,
+      "json_count": 856,
+      "pdf_count": 854,
+      "paired_count": 854,
+      "is_complete": false,
+      "orphaned_jsons": [
+        "2023_10_160_288.json",
+        "2023_3_30_compressed.json"
+      ],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 2,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2024,
+      "json_count": 782,
+      "pdf_count": 782,
+      "paired_count": 782,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    },
+    {
+      "year": 2025,
+      "json_count": 897,
+      "pdf_count": 897,
+      "paired_count": 897,
+      "is_complete": true,
+      "orphaned_jsons": [],
+      "orphaned_pdfs": [],
+      "orphaned_json_count": 0,
+      "orphaned_pdf_count": 0
+    }
+  ]
+}

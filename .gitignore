@@ -215,3 +215,7 @@ sc_track.json
 sc_fill_progress.json
 all_fill_changes.json
 chunk_changes_summary.json
+
+downloaded_data/
+docs
+data
